@@ -1,1 +1,28 @@
+# GitHub Pages Konfiguration
+
+# Wähle das Theme aus (hier: Minimal)
+theme: jekyll-theme-minimal
+
+# Website-Informationen
+title: "Meine GitHub Pages Website"
+description: "Eine einfache GitHub Pages-Website mit dem Minimal-Theme"
+author: "Bretscher Jan"
+
+# Falls du ein nicht offiziell unterstütztes Theme verwenden willst, nutze stattdessen:
+# remote_theme: "Nutzername/Theme-Repository"
+
+# Navigationseinstellungen (falls das Theme eine Navbar unterstützt)
+show_downloads: true  # Zeigt Download-Links für das Repo an
+
+# Social Media Links (optional, falls das Theme es unterstützt)
+github:
+  username: "dein-github-username"
+twitter:
+  username: "dein-twitter-handle"
+
+# Markdown-Engine (optional, aber empfohlen für bessere Kompatibilität)
+markdown: kramdown
+
+# Falls du eine benutzerdefinierte Domain verwendest:
+# domain: "www.deinedomain.de"
 
